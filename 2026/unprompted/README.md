@@ -35,9 +35,9 @@ The event featured a high concentration of industry leaders and researchers from
 - 📅 Mar 3-4, 2026
 - 🏢 The Hibernia, SF
 - 🔗 [unpromptedcon.org](https://unpromptedcon.org)
-- 👥 Gadi Evron et al.
+- 👥 [Gadi Evron](https://www.linkedin.com/in/gadievron).
 - #️⃣ #Unprompted2026 #AISec
-- ✍️ Adrian Puente Z.
+- ✍️ [Adrian Puente Z](https://www.linkedin.com/in/adrianpuente).
 
 ## Talks (53+)
 | Title | Speakers | Stage | 🔗 |
