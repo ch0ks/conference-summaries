@@ -1,7 +1,35 @@
 # Unprompted 2026
+The **[un]prompted 2026** conference (held March 3–4, 2026, in San Francisco) is a practitioner-focused event dedicated to the technical and operational realities of AI security. Departing from high-level marketing narratives, the conference emphasizes "no fluff" technical talks, live demonstrations, and peer-to-peer exchange among security researchers, engineers, and policy architects.
 
-## Overview
-AI security conf for practitioners. Short talks, demos.
+## **Core Themes and Focus Areas**
+
+The conference is organized into six primary tracks that cover the full spectrum of AI-related security:
+
+1. **Building Secure AI Systems:** Best practices for architecture and development.
+2. **Attacking AI Systems:** Red teaming, prompt injection, and adversarial machine learning.
+3. **Using AI for Offensive Security:** Leveraging LLMs for automated exploit discovery and penetration testing.
+4. **Using AI for Defensive Security:** Utilizing agents for threat hunting, code remediation, and SOC automation.
+5. **Strategy & Governance:** Managing organizational risk, identity-based authorization failures, and national policy.
+6. **Practical Tools:** Demos of open-source projects and creative technical solutions.
+
+## **Key Technical Highlights**
+
+* **Agentic Workflows:** Significant focus on the transition from simple chatbots to "agentic" systems. Discussions centered on why traditional identity-based authorization fails for autonomous agents and the use of "capability tokens" to restrict their blast radius.
+* **Automated Vulnerability Research:** Presentations from Google DeepMind and Meta detailed how they are moving past manual "vibe-coding" toward multi-agent triage engines that automate secret-impact analysis and code security at scale.
+* **Novel Exploit Vectors:** Sessions demonstrated high-risk vulnerabilities, including hacking AI-integrated browsers to bypass same-origin policies and exploiting AI-driven KYC (Know Your Customer) pipelines.
+* **Operationalizing Defense:** Adobe and Stripe shared blueprints for "Security Guidance as a Service" and shipping guardrails for production AI agents, emphasizing measurable effectiveness over theoretical safety.
+
+## **Notable Speakers and Organizations**
+
+The event featured a high concentration of industry leaders and researchers from:
+
+* **Tech Giants:** Google (Heather Adkins, Four Flynn), Meta (Joshua Saxe), OpenAI (Paul McMillan), and AWS.
+* **Security Firms:** Trail of Bits (Dan Guido), Wiz (Rami McCarthy), and Trend Micro.
+* **Community Figures:** Bruce Schneier, Halvar Flake, Jeff Moss (DT), and Nicholas Carlini (Anthropic).
+
+## **Overview**
+
+[un]prompted serves as a technical benchmark for the "industrialization" of AI security. The 2026 session highlighted a shift in the industry from experimental LLM use to the deployment of complex, multi-agent systems, identifying the specific security bottlenecks—such as authorization, trajectory-aware training, and automated triage—that organizations must address to maintain a secure AI infrastructure.
 
 **Details**:
 - 📅 Mar 3-4, 2026
