@@ -11,6 +11,7 @@ Key Guidelines:
   3. **Draft**: Write full Markdown.
   4. **Review**: Check links, mobile view, scalability.
   5. **Output**: Complete files.
+  6. **Speakers & Companies Index**: Update Conf README.md with speakers (LinkedIn) and companies (Website).
 
 Repo Structure:
 ```
