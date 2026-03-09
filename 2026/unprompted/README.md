@@ -5,7 +5,7 @@ AI security conf for practitioners. Short talks, demos.
 
 **Details**:
 - 📅 Mar 3-4, 2026
-- 🏢 Salesforce Tower, SF
+- 🏢 The Hibernia, SF
 - 🔗 [unpromptedcon.org](https://unpromptedcon.org)
 - 👥 Gadi Evron et al.
 - #️⃣ #Unprompted2026 #AISec
